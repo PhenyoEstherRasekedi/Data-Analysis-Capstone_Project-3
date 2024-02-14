@@ -3,6 +3,8 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
 
 ### Project Overview
 
@@ -10,9 +12,12 @@ This data analysis project aims to analyze and draw out meaningful insights from
 
 ### Data Sources
 
-Data Dictionary: 'data_dictionary.csv'
-Consumer preferences: 'consumer_preferences.csv'
-Consumers: 'consumers.csv'
-Ratings: 'ratings.csv'
-Restaurant Cuisines: 'restaurant_cuisines.csv'
-Restaurants: 'restaurants.csv'
+The 5 datasets used for this analysis are 'consumer_preferences.csv, 'consumers.csv', 'ratings.csv', 'restaurant_cuisines.csv' and 'restaurants.csv'. The datasets contain detailed information about the restaurants and various info about each customer from age to preferrences.
+
+### Tools
+
+- Powerbi
+  - Data Cleaning
+  - Data Modelling
+  - Data Analysis
+  - Creating Report

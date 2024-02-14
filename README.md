@@ -62,5 +62,8 @@ The analysis results are summarized as follows:
 
 1. The Top 3 restaurants which are Cafeteria Y, Puesto De Tacos and Tartosas Locas are not franchise
 
-| Restaurant | Franchise | Smoking | Area | Price | AlcoholService |
-| ---------- | --------- | ------- | ---- | ----- | -------------- |
+| Restaurant | Franchise | Smoking | Area   | Price  | AlcoholService | Cuisine                | Rank |
+| ---------- | --------- | ------- | ------ | ------ | -------------- | ---------------------- | ---- |
+| Tortas     | No        | No      | Closed | Medium | No             | FastFood               | 1    |
+| Puesto     | No        | No      | Open   | Low    | No             | Mexican                | 2    |
+| CafeteriaY | No        | Section | Closed | Medium | Wine&beer      | Cafeteria&Contemporary | 3    |

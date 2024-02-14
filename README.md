@@ -7,14 +7,17 @@
 - [Tools](#tools)
 - [Data Cleaning/Preparation](#data-cleaning-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
 
 ### Project Overview
 
-This data analysis project aims to analyze and draw out meaningful insights from a customer survey of restaurants in a mexican city to aid business entrepreneurs and investors in making more informed decisions.
+This data analysis project aims to analyze and draw out meaningful insights from a customer survey of restaurants in some mexican cities to aid business entrepreneurs and investors in making more informed decisions.
+
+**_Disclaimer_** : _All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of PowerBi._
 
 ### Data Sources
 
-The 5 datasets used for this analysis are 'consumer_preferences.csv, 'consumers.csv', 'ratings.csv', 'restaurant_cuisines.csv' and 'restaurants.csv'. The datasets contain detailed information about the restaurants and various info about each customer from age to preferrences.
+The 5 datasets used for this analysis are 'consumer_preferences.csv, 'consumers.csv', 'ratings.csv', 'restaurant_cuisines.csv' and 'restaurants.csv'. The datasets contain detailed information about the restaurants and various information about each customer from age to preferrences.
 
 ### Tools
 
@@ -43,3 +46,11 @@ EDA involved exploring the customer survey data to answer key questions such as:
 - Are there any demand & supply gaps that you can exploit in the market?
 
 - If you were to invest in a restaurant, which characteristics would you be looking for?
+
+### Data Analysis
+
+The following PowerBi features were incorporated:
+
+- Filters
+- Modelling
+- Slicers

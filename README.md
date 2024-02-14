@@ -60,10 +60,18 @@ The following PowerBi features were incorporated:
 
 The analysis results are summarized as follows:
 
-1. The Top 3 restaurants which are Cafeteria Y, Puesto De Tacos and Tartosas Locas are not franchise
+1. The Top 3 restaurants are Cafeteria Y, Puesto De Tacos and Tartosas Locas. The highest rated restaurant Tortas Locas Hipocampo serves fast food and has a 61% food rating
 
 | Restaurant | Franchise | Smoking | Area   | Price  | AlcoholService | Cuisine                | Rank |
 | ---------- | --------- | ------- | ------ | ------ | -------------- | ---------------------- | ---- |
 | Tortas     | No        | No      | Closed | Medium | No             | FastFood               | 1    |
 | Puesto     | No        | No      | Open   | Low    | No             | Mexican                | 2    |
 | CafeteriaY | No        | Section | Closed | Medium | Wine&beer      | Cafeteria&Contemporary | 3    |
+| ---------- | --------- | ------- | ------ | ------ | -------------- | ---------------------- | ---- |
+
+Top Consumer preferences are;
+
+| Cuisine | Franchise | Smoking | Area   | AlcoholService |
+| ------- | --------- | ------- | ------ | -------------- |
+| Mexican | No        | No      | Closed | No             |
+| ------- | --------- | ------- | ------ | -------------- |

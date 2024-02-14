@@ -5,6 +5,8 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaning-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 
 ### Project Overview
 
@@ -16,8 +18,28 @@ The 5 datasets used for this analysis are 'consumer_preferences.csv, 'consumers.
 
 ### Tools
 
-- Powerbi
+- PowerBi
   - Data Cleaning
   - Data Modelling
   - Data Analysis
   - Creating Report
+
+### Data Cleaning/ Preparation
+
+In the intial data preparation phase, I performed the following tasks:
+
+1. Data loading and inspection
+2. Handling missing values
+3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+
+EDA involved exploring the customer survey data to answer key questions such as:
+
+- What can you learn from the highest rated restaurants? Do consumer preferences have an effect on ratings?
+
+- What are the consumer demographics? Does this indicate a bias in the data sample?
+
+- Are there any demand & supply gaps that you can exploit in the market?
+
+- If you were to invest in a restaurant, which characteristics would you be looking for?

@@ -8,6 +8,7 @@
 - [Data Cleaning/Preparation](#data-cleaning-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
+- [Results/Findings](#resultsfindings)
 
 ### Project Overview
 
@@ -53,4 +54,12 @@ The following PowerBi features were incorporated:
 
 - Filters
 - Modelling
-- Slicers
+- Interactive Slicers
+
+### Results/Findings
+
+The analysis results are summarized as follows:
+
+1. The Top 3 restaurants which are Cafeteria Y, Puesto De Tacos and Tartosas Locas are not franchise
+
+|Restaurant|Franchise|Smoking Allowed|Area|Price|Alcohol Service|

@@ -63,24 +63,38 @@ The following PowerBi features were incorporated:
 
 The analysis results are summarized as follows:
 
-1. The Top 3 restaurants by orders are Cafeteria Y, Puesto De Tacos and Tartosas Locas. The Top 3 by overall ratings are Emillianos, Michiko and Las Mananitas.
+1. The Top restaurant by number of orders Tartosas Locas. The Top 3 restaurants by overall ratings are Emillianos, Michiko and Las Mananitas.
 
 | Restaurant    | Franchise | Smoking | Area   | Price  | AlcoholService | Cuisine       | Parking |
 | ------------- | --------- | ------- | ------ | ------ | -------------- | ------------- | ------- |
 | Tortas        | No        | No      | Closed | Medium | No             | FastFood      | Public  |
-| Puesto        | No        | No      | Open   | Low    | No             | Mexican       | No      |
-| CafeteriaY    | No        | Section | Closed | Medium | Wine&beer      | Cafeteria     | Public  |
 | Emilianos     | Yes       | No      | Closed | Low    | Wine&beer      | Brewery       | No      |
 | Michiko       | No        | No      | Closed | Medium | No             | Japanese      | No      |
 | Las Mananitas | No        | No      | Closed | High   | Wine&beer      | International | Yes     |
 
+The common things about the top rated restaurants by overall ratings and orders is that they do not allow smoking, they are located in closed areas, mostly moderately priced and non-franchise.
+
 Top Consumer preferences are;
 
-| Cuisine   | Franchise | Smoking | Area   | Budget | Drinking Level | Transport | Rank |
-| --------- | --------- | ------- | ------ | ------ | -------------- | --------- | ---- |
-| Mexican   | No        | No      | Closed | Low    | Casual         | Public    | 1    |
-| American  | Yes       | Yes     | Open   | Medium | Abstemious     | Car       | 2    |
-| Cafeteria | Yes       | Yes     | Open   | High   | Social         | Foot      | 3    |
+| Cuisine | Franchise | Smoking | Area   | Budget | Drinking Level | Transport |
+| ------- | --------- | ------- | ------ | ------ | -------------- | --------- |
+| Mexican | No        | No      | Closed | Low    | Casual         | Public    |
+
+Mexican food is the most preferred cuisine however, the top rated restaurants serve fast food, brewery, japanese and international cuisine. So evidently cuisine preferences do not have an effect on ratings in this aspect.
+
+In terms of franchise, consumers mostly preffer non-franchise establishments and 3 of the 4 highest rated meeting this preference shows that the effect on ratings.
+
+80% of consumers are non-smokers and the effect of this preference on ratings is evident because all the top rated restaurants do not allow smoking. The same goes for closed areas as well.
+
+50% of the consumers have a low budget and 46% a medium budget, the top restaurants are also moderately priced.
+
+A majority of the consumers are casual, abstemious drinkers, this is reflected in the ratings as the top restaurants either do not serve alcohol or have a wine and beer menu.
+
+62% of consumers use public transport so the top rated restaurants not having parking is not a deal breaker.
+
+2. A majority of the consumers are single twenty year old students who live in San Luis Potosi with a low budget that use public transport, do not smoke, do not have childeren but drink casually. This indicates a bias in the data sample as the restaurant they order from the most sells fast food which is typical for students.
+
+3.
 
 ### Recommendations
 

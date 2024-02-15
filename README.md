@@ -9,6 +9,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Results/Findings](#resultsfindings)
+- [Recommendations](#recommendations)
 
 ### Project Overview
 
@@ -64,28 +65,26 @@ The analysis results are summarized as follows:
 
 1. The Top 3 restaurants by orders are Cafeteria Y, Puesto De Tacos and Tartosas Locas. The Top 3 by overall ratings are Emillianos, Michiko and Las Mananitas.
 
-| Restaurant    | Franchise | Smoking | Area   | Price  | AlcoholService | Cuisine       | Parking   |
-| ------------- | --------- | ------- | ------ | ------ | -------------- | ------------- | --------- |
-| Tortas        | No        | No      | Closed | Medium | No             | FastFood      | Public    |
-| Puesto        | No        | No      | Open   | Low    | No             | Mexican       | No        |
-| CafeteriaY    | No        | Section | Closed | Medium | Wine&beer      | Cafeteria     | Public    |
-| ----------    | --------- | ------- | ------ | ------ | -------------- | ------------  | --------- |
-| Emilianos     | Yes       | No      | Closed | Low    | Wine&beer      | Brewery       | No        |
-| Michiko       | No        | No      | Closed | Medium | No             | Japanese      | No        |
-| Las Mananitas | No        | No      | Closed | High   | Wine&beer      | International | Yes       |
-| ----------    | --------- | ------- | ------ | ------ | -------------- | ------------  | --------- |
+| Restaurant    | Franchise | Smoking | Area   | Price  | AlcoholService | Cuisine       | Parking |
+| ------------- | --------- | ------- | ------ | ------ | -------------- | ------------- | ------- |
+| Tortas        | No        | No      | Closed | Medium | No             | FastFood      | Public  |
+| Puesto        | No        | No      | Open   | Low    | No             | Mexican       | No      |
+| CafeteriaY    | No        | Section | Closed | Medium | Wine&beer      | Cafeteria     | Public  |
+| Emilianos     | Yes       | No      | Closed | Low    | Wine&beer      | Brewery       | No      |
+| Michiko       | No        | No      | Closed | Medium | No             | Japanese      | No      |
+| Las Mananitas | No        | No      | Closed | High   | Wine&beer      | International | Yes     |
 
 Top Consumer preferences are;
 
-| Cuisine   | Franchise | Smoking | Area   | Budget         | Drinking Level   | Transport   | Rank |
-| --------- | --------- | ------- | ------ | -------------- | ---------------- | ----------- | ---- |
-| Mexican   | No        | No      | Closed | Low            | Casual           | Public      | 1    |
-| American  | Yes       | Yes     | Open   | Medium         | Abstemious       | Car         | 2    |
-| Cafeteria | Yes       | Yes     | Open   | High           | Social           | Foot        | 3    |
-| -------   | --------- | ------- | ------ | -------------- | ---------------- | ----------- | ---- |
+| Cuisine   | Franchise | Smoking | Area   | Budget | Drinking Level | Transport | Rank |
+| --------- | --------- | ------- | ------ | ------ | -------------- | --------- | ---- |
+| Mexican   | No        | No      | Closed | Low    | Casual         | Public    | 1    |
+| American  | Yes       | Yes     | Open   | Medium | Abstemious     | Car       | 2    |
+| Cafeteria | Yes       | Yes     | Open   | High   | Social         | Foot      | 3    |
 
 ### Recommendations
 
 ### Limitations
 
-I excluded unanswered results
+I grouped age 18-35 as youth, 36-50 as adult, 51-65 as senior, 65+ as elder.
+I removed null/unanswered values from the results.

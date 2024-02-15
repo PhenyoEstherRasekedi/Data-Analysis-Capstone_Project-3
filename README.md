@@ -9,7 +9,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Results/Findings](#resultsfindings)
-- [Recommendations](#recommendations)
+- [Limitations](#limitations)
 
 ### Project Overview
 
@@ -86,17 +86,18 @@ In terms of franchise, consumers mostly preffer non-franchise establishments and
 
 80% of consumers are non-smokers and the effect of this preference on ratings is evident because all the top rated restaurants do not allow smoking. The same goes for closed areas as well.
 
-50% of the consumers have a low budget and 46% a medium budget, the top restaurants are also moderately priced.
+The top restaurants being moderately priced reflects the data that 69% of consumers have a medium budget.
 
 A majority of the consumers are casual, abstemious drinkers, this is reflected in the ratings as the top restaurants either do not serve alcohol or have a wine and beer menu.
 
 62% of consumers use public transport so the top rated restaurants not having parking is not a deal breaker.
 
-2. A majority of the consumers are single twenty year old students who live in San Luis Potosi with a low budget that use public transport, do not smoke, do not have childeren but drink casually. This indicates a bias in the data sample as the restaurant they order from the most sells fast food which is typical for students.
+2. A majority of the consumers are single twenty year old students who do not have children, live in San Luis Potosi with a medium budget. They use public transport, do not smoke but are abstemious drinkers. This indicates a bias in the data sample as the restaurant they order from the most sells fast food at a medium price which is typical for students.
 
-3.
+3. The top 3 restaurants by orders have low average service ratings, offering quality customer service would garner loyalty and keep any restaurant at the top.
+   There is a 20% demand for smoking areas, a 35% demand for franchise restaurants and a 38% demand for open area restaurants
 
-### Recommendations
+4. If I were to invest in a restaurant, I would look for one with a closed area, public parking, moderately priced, wine and beer menu, no smoking, non-franchise that sells mexican fast food to appeal to the student and adult population.
 
 ### Limitations
 

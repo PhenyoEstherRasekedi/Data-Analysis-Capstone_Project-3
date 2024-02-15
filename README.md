@@ -55,23 +55,37 @@ The following PowerBi features were incorporated:
 - Filters
 - Modelling
 - Interactive Slicers
+- Power Query
+- Conditional Column
 
 ### Results/Findings
 
 The analysis results are summarized as follows:
 
-1. The Top 3 restaurants are Cafeteria Y, Puesto De Tacos and Tartosas Locas. The highest rated restaurant Tortas Locas Hipocampo serves fast food and has a 61% food rating
+1. The Top 3 restaurants by orders are Cafeteria Y, Puesto De Tacos and Tartosas Locas. The Top 3 by overall ratings are Emillianos, Michiko and Las Mananitas.
 
-| Restaurant | Franchise | Smoking | Area   | Price  | AlcoholService | Cuisine                | Rank |
-| ---------- | --------- | ------- | ------ | ------ | -------------- | ---------------------- | ---- |
-| Tortas     | No        | No      | Closed | Medium | No             | FastFood               | 1    |
-| Puesto     | No        | No      | Open   | Low    | No             | Mexican                | 2    |
-| CafeteriaY | No        | Section | Closed | Medium | Wine&beer      | Cafeteria&Contemporary | 3    |
-| ---------- | --------- | ------- | ------ | ------ | -------------- | ---------------------- | ---- |
+| Restaurant    | Franchise | Smoking | Area   | Price  | AlcoholService | Cuisine       | Parking   |
+| ------------- | --------- | ------- | ------ | ------ | -------------- | ------------- | --------- |
+| Tortas        | No        | No      | Closed | Medium | No             | FastFood      | Public    |
+| Puesto        | No        | No      | Open   | Low    | No             | Mexican       | No        |
+| CafeteriaY    | No        | Section | Closed | Medium | Wine&beer      | Cafeteria     | Public    |
+| ----------    | --------- | ------- | ------ | ------ | -------------- | ------------  | --------- |
+| Emilianos     | Yes       | No      | Closed | Low    | Wine&beer      | Brewery       | No        |
+| Michiko       | No        | No      | Closed | Medium | No             | Japanese      | No        |
+| Las Mananitas | No        | No      | Closed | High   | Wine&beer      | International | Yes       |
+| ----------    | --------- | ------- | ------ | ------ | -------------- | ------------  | --------- |
 
 Top Consumer preferences are;
 
-| Cuisine | Franchise | Smoking | Area   | AlcoholService |
-| ------- | --------- | ------- | ------ | -------------- |
-| Mexican | No        | No      | Closed | No             |
-| ------- | --------- | ------- | ------ | -------------- |
+| Cuisine   | Franchise | Smoking | Area   | Budget         | Drinking Level   | Transport   | Rank |
+| --------- | --------- | ------- | ------ | -------------- | ---------------- | ----------- | ---- |
+| Mexican   | No        | No      | Closed | Low            | Casual           | Public      | 1    |
+| American  | Yes       | Yes     | Open   | Medium         | Abstemious       | Car         | 2    |
+| Cafeteria | Yes       | Yes     | Open   | High           | Social           | Foot        | 3    |
+| -------   | --------- | ------- | ------ | -------------- | ---------------- | ----------- | ---- |
+
+### Recommendations
+
+### Limitations
+
+I excluded unanswered results

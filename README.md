@@ -63,43 +63,43 @@ The following PowerBi features were incorporated:
 
 The analysis results are summarized as follows:
 
-1. The Top restaurant by number of orders Tartosas Locas. The Top 3 restaurants by overall ratings are Emillianos, Michiko and Las Mananitas.
+1. The Top restaurant by number of orders is Tartosas Locas and the Top 3 restaurant by overall ratings is Las Mananitas.
 
 | Restaurant    | Franchise | Smoking | Area   | Price  | AlcoholService | Cuisine       | Parking |
 | ------------- | --------- | ------- | ------ | ------ | -------------- | ------------- | ------- |
 | Tortas        | No        | No      | Closed | Medium | No             | FastFood      | Public  |
-| Emilianos     | Yes       | No      | Closed | Low    | Wine&beer      | Brewery       | No      |
-| Michiko       | No        | No      | Closed | Medium | No             | Japanese      | No      |
 | Las Mananitas | No        | No      | Closed | High   | Wine&beer      | International | Yes     |
 
-The common things about the top rated restaurants by overall ratings and orders is that they do not allow smoking, they are located in closed areas, mostly moderately priced and non-franchise.
+The common things about the top rated restaurants by overall ratings and orders is that they do not allow smoking, they are non-franchise establishments, located in closed areas with parking and mostly moderately priced.
 
 Top Consumer preferences are;
 
 | Cuisine | Franchise | Smoking | Area   | Budget | Drinking Level | Transport |
 | ------- | --------- | ------- | ------ | ------ | -------------- | --------- |
-| Mexican | No        | No      | Closed | Low    | Casual         | Public    |
+| Mexican | No        | No      | Closed | Medium | Casual         | Public    |
 
 Mexican food is the most preferred cuisine however, the top rated restaurants serve fast food, brewery, japanese and international cuisine. So evidently cuisine preferences do not have an effect on ratings in this aspect.
 
-In terms of franchise, consumers mostly preffer non-franchise establishments and 3 of the 4 highest rated meeting this preference shows that the effect on ratings.
+In terms of franchise, consumers mostly preffer non-franchise establishments and 3 of the 4 highest rated restaurants meet this preference which shows the effect on ratings.
 
-80% of consumers are non-smokers and the effect of this preference on ratings is evident because all the top rated restaurants do not allow smoking. The same goes for closed areas as well.
+86% of consumers are non-smokers and the effect of this preference on ratings is evident because all the top rated restaurants do not allow smoking. The same goes for closed areas as well.
 
-The top restaurants being moderately priced reflects the data that 69% of consumers have a medium budget.
+The top restaurants being moderately priced reflects the data that 47% of consumers have a medium budget.
 
 A majority of the consumers are casual, abstemious drinkers, this is reflected in the ratings as the top restaurants either do not serve alcohol or have a wine and beer menu.
 
 62% of consumers use public transport so the top rated restaurants not having parking is not a deal breaker.
 
-2. A majority of the consumers are single twenty year old students who do not have children, live in San Luis Potosi with a medium budget. They use public transport, do not smoke but are abstemious drinkers. This indicates a bias in the data sample as the restaurant they order from the most sells fast food at a medium price which is typical for students.
+2. A majority of the consumers are single twenty year old students who do not have children, live in San Luis Potosi with a low-medium budget. They use public transport, do not smoke but are abstemious drinkers. This indicates a bias in the data sample as the restaurant they order from the most sells fast food at a medium price which is typical for students.
 
-3. The top 3 restaurants by orders have low average service ratings, offering quality customer service would garner loyalty and keep any restaurant at the top.
+3. The top 3 restaurants by orders have low average service ratings therefore, offering quality customer service would garner loyalty and keep any competitor restaurant at the top.
    There is a 20% demand for smoking areas, a 35% demand for franchise restaurants and a 38% demand for open area restaurants
 
-4. If I were to invest in a restaurant, I would invest in one with a closed area, public parking, moderately priced, wine and beer menu, no smoking, non-franchise that sells mexican fast food to appeal to the student and adult population.
+4. If I were to invest in a restaurant, I would invest in one with a closed area, public parking, moderately priced, wine and beer menu, no smoking, non-franchise that sells fast food to appeal to the student population.
 
-For a more niche market, an open area franchise restaurant with a smoking section.
+To target the adult market, I would invest in a closed area non-franchise restaurant with a smoking section, wine and beer menu that sells mexican and international food at a medium price. It should have parking since a moajority of them have cars.
+
+The service and food served are also important as they should be excellent to in order to be competitive.
 
 ### Limitations
 

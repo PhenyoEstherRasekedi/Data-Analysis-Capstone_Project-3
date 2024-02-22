@@ -17,6 +17,11 @@ This data analysis project aims to analyze and draw out meaningful insights from
 
 **_Disclaimer_** : _All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of PowerBi._
 
+![image](https://github.com/PhenyoEstherRasekedi/Data-Analysis-Capstone_Project-3/assets/155717861/093d7200-2b06-4f24-ba99-f50108938f94)
+
+![image](https://github.com/PhenyoEstherRasekedi/Data-Analysis-Capstone_Project-3/assets/155717861/55f402ee-db18-4ef7-b116-3e645c56845d)
+
+
 ### Data Sources
 
 The 5 datasets used for this analysis are 'consumer_preferences.csv, 'consumers.csv', 'ratings.csv', 'restaurant_cuisines.csv' and 'restaurants.csv'. The datasets contain detailed information about the restaurants and various information about each customer from age to preferrences.

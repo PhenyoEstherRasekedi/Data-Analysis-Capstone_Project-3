@@ -63,14 +63,14 @@ The following PowerBi features were incorporated:
 
 The analysis results are summarized as follows:
 
-1. The Top restaurant by number of orders is Tartosas Locas and the Top 3 restaurant by overall ratings is Las Mananitas.
+1. The Top restaurant by number of orders is Tartosas Locas and the Top restaurant by overall ratings is Las Mananitas.
 
 | Restaurant    | Franchise | Smoking | Area   | Price  | AlcoholService | Cuisine       | Parking |
 | ------------- | --------- | ------- | ------ | ------ | -------------- | ------------- | ------- |
 | Tortas        | No        | No      | Closed | Medium | No             | FastFood      | Public  |
 | Las Mananitas | No        | No      | Closed | High   | Wine&beer      | International | Yes     |
 
-The common things about the top rated restaurants by overall ratings and orders is that they do not allow smoking, they are non-franchise establishments, located in closed areas with parking and mostly moderately priced.
+The things top rated restaurants have in common are that they do not allow smoking, they are non-franchise establishments, located in closed areas with parking and mostly moderately priced menus.
 
 Top Consumer preferences are;
 

@@ -99,7 +99,7 @@ A majority of the consumers are casual, abstemious drinkers, this is reflected i
 
 To target the adult market, I would invest in a closed area non-franchise restaurant with a smoking section, wine and beer menu that sells mexican and international food at a medium price. It should have parking since a moajority of them have cars.
 
-The service and food served are also important as they should be excellent to in order to be competitive.
+The quality of service and food served are also important as they should be excellent to in order to be competitive.
 
 ### Limitations
 

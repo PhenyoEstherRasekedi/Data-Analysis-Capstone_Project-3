@@ -97,7 +97,9 @@ A majority of the consumers are casual, abstemious drinkers, this is reflected i
 3. The top 3 restaurants by orders have low average service ratings, offering quality customer service would garner loyalty and keep any restaurant at the top.
    There is a 20% demand for smoking areas, a 35% demand for franchise restaurants and a 38% demand for open area restaurants
 
-4. If I were to invest in a restaurant, I would look for one with a closed area, public parking, moderately priced, wine and beer menu, no smoking, non-franchise that sells mexican fast food to appeal to the student and adult population.
+4. If I were to invest in a restaurant, I would invest in one with a closed area, public parking, moderately priced, wine and beer menu, no smoking, non-franchise that sells mexican fast food to appeal to the student and adult population.
+
+For a more niche market, an open area franchise restaurant with a smoking section.
 
 ### Limitations
 
